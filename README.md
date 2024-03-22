@@ -1,7 +1,6 @@
-# DA_template
-Diseño de Algoritmos
+# Diseño de Algoritmos
 
-## <Nombre> <Apellidos>
+## <Nombre> <Apellidos> <año>
 
 ## Lista de algoritmos implementados
 - Tema 1
